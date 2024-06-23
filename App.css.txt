@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 102vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-top: 22px;
+}
+
+form div {
+    margin-bottom: 12px;
+}
+
+button {
+    padding: 15px 25px;
+    background-color: #007bff;
+    color: green;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
